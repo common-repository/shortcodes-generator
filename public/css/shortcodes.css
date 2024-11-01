@@ -1,0 +1,6 @@
+span.mce_cur_shortcodes_button{
+        background: url('../img/toolbox--plus.png') no-repeat 2px -21px !important;
+    }
+span.mce_cur_shortcodes_button:hover{
+        background-position:2px 3px!important;
+    }
